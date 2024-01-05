@@ -19,45 +19,45 @@
   - primitive types: 🙋 explained
   - reference types: 🙋 explained
   - flag: 🙋 explained
-  - lexical scope: 👂 heard
+  - lexical scope: 🎓 known
   - code block: 🖐 used
   - conditions: 🖐 used
   - loops: 🖐 used
-  - assignment: 👂 heard
+  - assignment: 🎓 known
   - regular expression: 🖐 used
   - interface: 🙋 explained
   - contract: 👂 heard
-  - module: 👂 heard
+  - module: 🎓 known
   - call stack: 🙋 explained
 - Functions
   - signature: 🙋 explained
   - argument: 🙋 explained
   - parameter: 🙋 explained
   - pure function: 🖐 used
-  - lambda expression: 👂 heard
+  - lambda expression: 🖐 used
   - side effects: 👂 heard
   - closure: 👂 heard
   - partial application: 👂 heard
   - curry: 👂 heard
-  - higher order: 👂 heard
+  - higher order: 🎓 known
   - recursion: 🖐 used
   - callback: 👂 heard
-  - listener: 👂 heard
+  - listener: 🖐 used
   - compose: 👂 heard
   - pipe: 👂 heard
   - memoize: 👂 heard
-  - wrapper: 👂 heard
+  - wrapper: 🎓 known
   - functor: 👂 heard
   - monad: 👂 heard
   - monoid: 👂 heard
-  - generator: 👂 heard
+  - generator: 🎓 known
   - coroutine: 👂 heard
 - Data structures
   - array: 🖐 used
   - structure: 🖐 used
   - record: 👂 heard
   - enum: 🖐 used
-  - instance: 👂 heard
+  - instance: 🎓 known
   - object: 🖐 used
   - class: 🖐 used
   - collection: 🖐 used
@@ -73,17 +73,17 @@
   - tree: 🖐 used
   - graph: 🖐 used
   - iterator: 🖐 used
-  - mutable state: 👂 heard
-  - immutable state: 👂 heard
+  - mutable state: 🎓 known
+  - immutable state: 🎓 known
   - serialization: 👂 heard
   - string parsing: 🖐 used
 - Process & style
   - compiler: 🖐 used
-  - transpiler: 👂 heard
+  - transpiler: 🎓 known
   - linter: 👂 heard
-  - polyfill: 👂 heard
+  - polyfill: 🎓 known
   - debugger: 🖐 used
-  - garbage collection: 👂 heard
+  - garbage collection: 🎓 known
   - refactoring: 🖐 used
   - code review: 🖐 used
   - antipatterns: 🙋 explained
@@ -92,15 +92,15 @@
   - magic numbers: 🙋 explained
   - hardcode: 🙋 explained
   - complexity: 👂 heard
-  - decomposition: 👂 heard
+  - decomposition: 🎓 known
   - spaghetti: 🙋 explained
   - silver bullet: 👂 heard
   - not invented here: 👂 heard
-  - dead code: 👂 heard
-  - unreachable code: 👂 heard
+  - dead code: 🎓 known
+  - unreachable code: 🎓 known
   - duplicate code: 🙋 explained
   - exception: 🖐 used
-  - return early: 👂 heard
-  - unittest: 👂 heard
+  - return early: 🎓 known
+  - unittest: 🎓 known
   - git: 🖐 used
   - github: 🖐 used
