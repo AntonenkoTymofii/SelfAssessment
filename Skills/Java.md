@@ -1,64 +1,64 @@
 ## Programming fundamental concepts
 
 - Syntax
-    - Variables: 👂 heard
-    - Types: 👂 heard
-    - Declaration: 👂 heard
-    - Initialization: 👂 heard
-    - if (condition) {}: 👂 heard
-    - else if (condition) {}: 👂 heard
-    - else {}:👂 heard
-    - switch ... case:...: 👂 heard
-    - for () {}: 👂 heard
-    - while () {}: 👂 heard
-    - do {} while (): 👂 heard
-    - try {} catch{}: 👂 heard
-    - Arrays: 👂 heard
-    - Lists: 👂 heard
-    - Functions: 👂 heard
-    - Methods: 👂 heard
-    - Class: 👂 heard
-    - Static: 👂 heard
-    - new: 👂 heard
-    - delete: 👂 heard
-    - garbage collector: 👂 heard
-    - OOP: 👂 heard
-    - Exception: 👂 heard
-    - Interface: 👂 heard
-    - Apache Kafka: 👂 heard
-    - Socket: 👂 heard
+    - Variables: 🖐 used
+    - Types: 🖐 used
+    - Declaration: 🖐 used
+    - Initialization: 🖐 used
+    - if (condition) {}: 🖐 used
+    - else if (condition) {}: 🖐 used
+    - else {}: 🖐 used
+    - switch ... case:...: 🖐 used
+    - for () {}: 🖐 used
+    - while () {}: 🖐 used
+    - do {} while (): 🖐 used
+    - try {} catch{}: 🖐 used
+    - Arrays: 🖐 used
+    - Lists: 🖐 used
+    - Functions: 🖐 used
+    - Methods: 🖐 used
+    - Class: 🖐 used
+    - Static: 🖐 used
+    - new: 🖐 used
+    - delete: 🖐 used
+    - garbage collector: 🖐 used
+    - OOP: 🖐 used
+    - Exception: 🖐 used
+    - Interface: 🖐 used
+    - Apache Kafka: 🖐 used
+    - Socket: 🖐 used
 - Java Frameworks 
-    - Spring Framework:
-        - IoC (Inversion of Control) Module: @Autowired, @Component, @Configuration: 👂 heard
-        - MVC (Model-View-Controller): @Controller, @RequestMapping: 👂 heard
-    - Hibernate:
-        - Annotations for object-relational mapping: @Entity, @Table, @Column: 👂 heard
-        - HQL (Hibernate Query Language): 👂 heard
-    - JavaFX:
-        - UI Components: Button, TextField, Label: 👂 heard
-        - Event Handlers: setOnAction(), setOnMouseClicked(): 👂 heard
-    - JUnit:
-        - Testing Annotations: @Test, @Before, @After: 👂 heard
-        - Assertion Methods: assertEquals(), assertTrue(): 👂 heard
-    - Spring Boot API: 👂 heard
-    - Connect SQL Dialects: 👂 heard
-    - Flyway migrations: 👂 heard
+    - Spring Framework: 🖐 used
+        - IoC (Inversion of Control) Module: @Autowired, @Component, @Configuration: 🖐 used
+        - MVC (Model-View-Controller): @Controller, @RequestMapping: 🖐 used
+    - Hibernate: 🖐 used
+        - Annotations for object-relational mapping: @Entity, @Table, @Column: 🖐 used
+        - HQL (Hibernate Query Language): 🖐 used
+    - JavaFX: 🖐 used
+        - UI Components: Button, TextField, Label: 🖐 used
+        - Event Handlers: setOnAction(), setOnMouseClicked(): 🖐 used
+    - JUnit: 🎓 known
+        - Testing Annotations: @Test, @Before, @After: 🎓 known
+        - Assertion Methods: assertEquals(), assertTrue(): 🎓 known
+    - Spring Boot API: 🖐 used
+    - Connect SQL Dialects: 🖐 used
+    - Flyway migrations: 🖐 used
 - SQL
-    - PostgreSQL: 👂 heard
-    - MySQL: 👂 heard
-    - Migration: 👂 heard
-    - SELECT: 👂 heard
-    - INSERT: 👂 heard
-    - UPDATE: 👂 heard
-    - DELETE: 👂 heard
-    - CREATE: 👂 heard
-    - ALTER TABLE: 👂 heard
-    - SELECT DISTINCT: 👂 heard
-    - DROP: 👂 heard
-    - JOIN: 👂 heard
-    - WHERE : 👂 heard
-    - ORDER BY: 👂 heard
-    - GROUP BY: 👂 heard
+    - PostgreSQL: 🖐 used
+    - MySQL: 🖐 used
+    - Migration: 🖐 used
+    - SELECT: 🖐 used
+    - INSERT: 🖐 used
+    - UPDATE: 🖐 used
+    - DELETE: 🖐 used
+    - CREATE: 🖐 used
+    - ALTER TABLE: 🖐 used
+    - SELECT DISTINCT: 🖐 used
+    - DROP: 🖐 used
+    - JOIN: 🖐 used
+    - WHERE : 🖐 used
+    - ORDER BY: 🖐 used
+    - GROUP BY: 🖐 used
 - С++
     - Variables: 🖐 used
     - Types: 🖐 used

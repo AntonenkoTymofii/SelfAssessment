@@ -6,7 +6,7 @@
   - Structured programming: 🖐 used
   - Non-structured programming: 🎓 known
   - Functional programming: 🖐 used
-  - Prototype-based programming: 👂 heard
+  - Prototype-based programming: 🎓 known
   - Object-oriented programming: 🖐 used
   - Object-based programming: 🖐 used
   - Generic programming: 🖐 used
@@ -18,7 +18,7 @@
   - Automata-based programming: 👂 heard
   - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 🖐 used
-  - Metaprogramming: 👂 heard
+  - Metaprogramming: 🎓 known
   - Actor model: 👂 heard
 - OOP basics
   - constructor: 🖐 used
@@ -36,11 +36,11 @@
   - Abstract class: 🖐 used
   - Interface: 🖐 used
   - Encapsulation: 🖐 used
-  - Hidden class: 👂 heard
+  - Hidden class: 🎓 known
   - Object form: 👂 heard
   - instance: 👂 heard
   - Introspection: 👂 heard
-  - Reflection: 👂 heard
+  - Reflection: 🎓 known
 - Patterns
   - Singleton: 🖐 used
   - Factory Method: 🖐 used
@@ -51,12 +51,12 @@
   - Facade: 🎓 known
   - Proxy: 👂 heard
   - Chain of Responsibility: 👂 heard
-  - Command: 🎓 known
+  - Command: 🖐 used
   - Iterator: 🎓 known
   - State: 🎓 known
-  - Bridge: 🎓 known
-  - Builder: 🎓 known
-  - Prototype: 🎓 known
+  - Bridge: 🖐 used
+  - Builder: 🖐 used
+  - Prototype: 🖐 used
   - Composite: 🎓 known
   - Decorator: 🎓 known
   - Flyweight: 🎓 known

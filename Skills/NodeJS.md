@@ -33,8 +33,8 @@
   - Clustering: 👂 heard
   - Watch filesystem changes with --watch: 👂 heard
 - Internal API
-  - Streams API: 👂 heard
-  - Web Streams API: 👂 heard
+  - Streams API: 🎓 known
+  - Web Streams API: 🎓 known
   - Crypto API: 👂 heard
   - Password hashing with node:crypto.scrypt: 👂 heard
   - Web Crypto API: 👂 heard
@@ -52,7 +52,7 @@
   - SharedArrayBuffer: 👂 heard
   - node:worker_threads: 👂 heard
   - node:child_process: 👂 heard
-  - MessageChannel, MessagePort: 👂 heard
+  - MessageChannel, MessagePort: 🎓 known
   - BroadcastChannel: 👂 heard
   - Generating crypto random UUID: 👂 heard
   - node:url vs new URL: 👂 heard
@@ -61,51 +61,51 @@
   - Blob, File, Buffer, node:buffer: 👂 heard
   - Module node:zlib: 👂 heard
 - Application structure and architecture
-  - Isolation between layer: 👂 heard
-  - Multilayer approach: 👂 heard
+  - Isolation between layer: 🎓 known
+  - Multilayer approach: 🎓 known
   - Separation of concerns: 👂 heard
   - Inversion of control: 👂 heard
-  - Dependency injection: 👂 heard
+  - Dependency injection: 🎓 known
   - GRASP: 👂 heard
-  - SOLID: 👂 heard
-  - GoF patterns: 👂 heard
+  - SOLID: 🎓 known
+  - GoF patterns: 🎓 known
   - Distributed systems: 👂 heard
   - Highload applications: 👂 heard
-  - Clean architecture: 👂 heard
+  - Clean architecture: 🎓 known
   - DDD: 👂 heard
-  - Message Queue: 👂 heard
+  - Message Queue: 🎓 known
   - CQS: 👂 heard
   - CQRS: 👂 heard
   - Event sourcing: 👂 heard
   - Load balancing: 👂 heard
   - Serverless clouds: 👂 heard
   - FaaS clouds: 👂 heard
-  - Fat controller: 👂 heard
+  - Fat controller: 🎓 known
   - GoF for Node.js: 👂 heard
-  - Leaking abstractions: 👂 heard
+  - Leaking abstractions: 🎓 known
 - Network
-  - IP sticky sessions: 👂 heard
-  - Endpoint throttling: 👂 heard
-  - HTTP(S): 👂 heard
-  - TCP/SSL: 👂 heard
+  - IP sticky sessions: 🎓 known
+  - Endpoint throttling: 🎓 known
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
   - UDP: 👂 heard
-  - TLS: 👂 heard
-  - Websocket: 👂 heard
+  - TLS: 🎓 known
+  - Websocket: 🎓 known
   - SSE: 👂 heard
   - HTTP/3 (QUIC): 👂 heard
   - Long polling: 👂 heard
-  - REST: 👂 heard
-  - RPC: 👂 heard
+  - REST: 🖐 used
+  - RPC: 🎓 known
   - Routing: 👂 heard
   - DoS: 👂 heard
   - DDoS: 👂 heard
   - XSS: 👂 heard
   - Path traversal: 👂 heard
   - CSRF: 👂 heard
-  - DNS: 👂 heard
+  - DNS: 🎓 known
   - Fetch API: 👂 heard
   - IncomingMessage: 👂 heard
-  - SQL injection: 👂 heard
+  - SQL injection: 🖐 used
   - noDelay: 👂 heard
   - keep-alive: 👂 heard
   - ALPN: 👂 heard
@@ -114,40 +114,40 @@
   - Protocol agnostic approach: 👂 heard
 - Technique and tools
   - Native test runner: 👂 heard
-  - Logging: 👂 heard
+  - Logging: 🎓 known
   - Application configuring: 👂 heard
-  - Testing: 👂 heard
+  - Testing: 🎓 known
   - CI/CD: 👂 heard
-  - Readable: 👂 heard
-  - Writable: 👂 heard
-  - Transform: 👂 heard
+  - Readable: 🎓 known
+  - Writable: 🎓 known
+  - Transform: 🎓 known
   - back pressure: 👂 heard
-  - Buffer: 👂 heard
-  - Console: 👂 heard
+  - Buffer: 🎓 known
+  - Console: 🎓 known
   - Inspector: 👂 heard
-  - Reliability: 👂 heard
-  - Quality: 👂 heard
-  - Availability: 👂 heard
-  - Flexibility: 👂 heard
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
 - Data access
-  - Data access layer: 👂 heard
-  - Repository: 👂 heard
+  - Data access layer: 🎓 known
+  - Repository: 🎓 known
   - Active record: 👂 heard
-  - Query builder: 👂 heard
-  - Object-Relational Mapping: 👂 heard 
+  - Query builder: 🎓 known
+  - Object-Relational Mapping: 🎓 known
 - Error handling and debugging
-  - Error: 👂 heard
+  - Error: 🎓 known
   - error.cause: 👂 heard
   - error.code: 👂 heard
-  - error.message: 👂 heard 
-  - error.stack: 👂 heard
+  - error.message: 🎓 known 
+  - error.stack: 🎓 known
   - How to avoid mixins: 👂 heard 
   - Error.captureStackTrace: 👂 heard
   - Uncaught exceptions: 👂 heard 
-  - Heap dump: 👂 heard
-  - Debugging tools: 👂 heard
+  - Heap dump: 🎓 known
+  - Debugging tools: 🖐 used
   - Flame graph: 👂 heard
-  - Memory leaks: 👂 heard
+  - Memory leaks: 🎓 known
   - Resource leaks: 👂 heard
   - Data race: 👂 heard
 - Integrations and bindings

@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 👂 heard
-  - try..catch: 👂 heard
+  - Event loop: 🎓 known
+  - try..catch: 🎓 known
   - Non-blocking: 👂 heard
   - Async I/O: 👂 heard
   - Thread pool: 👂 heard
@@ -10,7 +10,7 @@
   - CAS operations: 👂 heard
   - epoll: 👂 heard
   - kqueue: 👂 heard
-  - Completion ports: 👂 heard
+  - Completion ports: 🎓 known
   - Event ports: 👂 heard
   - libuv: 👂 heard
   - Race conditions: 👂 heard
@@ -22,7 +22,7 @@
   - Thread: 👂 heard
   - Process: 👂 heard
 - Async contracts
-  - Callbacks: 👂 heard
+  - Callbacks: 🎓 known
   - Callback-last-error-first: 👂 heard
   - Thenable: 👂 heard
   - Promise: 👂 heard
@@ -59,7 +59,7 @@
   - Mutex: 👂 heard
   - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
-  - Timers: 👂 heard
+  - Timers: 🎓 known
   - setImmediate: 👂 heard
   - nextTick: 👂 heard
   - AbortController: 👂 heard
